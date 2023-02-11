@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/WFreelancer/nautilus-pg/static/css/main.154f9968.css",
-    "main.js": "/WFreelancer/nautilus-pg/static/js/main.aa9d25fc.js",
+    "main.js": "/WFreelancer/nautilus-pg/static/js/main.b3f3039b.js",
     "static/media/loader.svg": "/WFreelancer/nautilus-pg/static/media/loader.d60b0addea08b25861e400ce011c83f5.svg",
     "index.html": "/WFreelancer/nautilus-pg/index.html",
     "main.154f9968.css.map": "/WFreelancer/nautilus-pg/static/css/main.154f9968.css.map",
-    "main.aa9d25fc.js.map": "/WFreelancer/nautilus-pg/static/js/main.aa9d25fc.js.map"
+    "main.b3f3039b.js.map": "/WFreelancer/nautilus-pg/static/js/main.b3f3039b.js.map"
   },
   "entrypoints": [
     "static/css/main.154f9968.css",
-    "static/js/main.aa9d25fc.js"
+    "static/js/main.b3f3039b.js"
   ]
 }
