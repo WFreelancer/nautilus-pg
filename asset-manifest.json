@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nautilus-pg/static/css/main.154f9968.css",
-    "main.js": "/nautilus-pg/static/js/main.fb0637d2.js",
+    "main.js": "/nautilus-pg/static/js/main.5cf1de53.js",
     "static/media/loader.svg": "/nautilus-pg/static/media/loader.d60b0addea08b25861e400ce011c83f5.svg",
     "index.html": "/nautilus-pg/index.html",
     "main.154f9968.css.map": "/nautilus-pg/static/css/main.154f9968.css.map",
-    "main.fb0637d2.js.map": "/nautilus-pg/static/js/main.fb0637d2.js.map"
+    "main.5cf1de53.js.map": "/nautilus-pg/static/js/main.5cf1de53.js.map"
   },
   "entrypoints": [
     "static/css/main.154f9968.css",
-    "static/js/main.fb0637d2.js"
+    "static/js/main.5cf1de53.js"
   ]
 }
