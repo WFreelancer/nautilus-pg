@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WFreelancer/nautilus-pg/static/css/main.154f9968.css",
-    "main.js": "/WFreelancer/nautilus-pg/static/js/main.e7531e7e.js",
-    "static/media/loader.svg": "/WFreelancer/nautilus-pg/static/media/loader.d60b0addea08b25861e400ce011c83f5.svg",
-    "index.html": "/WFreelancer/nautilus-pg/index.html",
-    "main.154f9968.css.map": "/WFreelancer/nautilus-pg/static/css/main.154f9968.css.map",
-    "main.e7531e7e.js.map": "/WFreelancer/nautilus-pg/static/js/main.e7531e7e.js.map"
+    "main.css": "/nautilus-pg/static/css/main.154f9968.css",
+    "main.js": "/nautilus-pg/static/js/main.fb0637d2.js",
+    "static/media/loader.svg": "/nautilus-pg/static/media/loader.d60b0addea08b25861e400ce011c83f5.svg",
+    "index.html": "/nautilus-pg/index.html",
+    "main.154f9968.css.map": "/nautilus-pg/static/css/main.154f9968.css.map",
+    "main.fb0637d2.js.map": "/nautilus-pg/static/js/main.fb0637d2.js.map"
   },
   "entrypoints": [
     "static/css/main.154f9968.css",
-    "static/js/main.e7531e7e.js"
+    "static/js/main.fb0637d2.js"
   ]
 }
