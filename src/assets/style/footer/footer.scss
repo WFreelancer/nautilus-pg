@@ -1,0 +1,18 @@
+.footer {
+	padding: 70px 0;
+	box-shadow: var(--shadow);
+	background-color: var(--grey-dark);
+	color: var(--white);
+
+	@media (max-width: 1024px) {
+		padding: 40px 0;
+	}
+
+	@media (max-width: 768px) {
+		padding: 30px 0;
+	}
+
+	&__container {
+		padding: 2rem;
+	}
+}

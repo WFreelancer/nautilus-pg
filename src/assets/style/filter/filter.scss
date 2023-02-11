@@ -1,0 +1,40 @@
+.filter {
+	background-color: var(--white);
+	margin-bottom: 40px;
+	border-radius: 4px;
+	box-shadow: var(--shadow);
+
+	&__header {
+		background-color: var(--grey-dark);
+		color: var(--white);
+		padding: 20px 40px;
+		font-size: 1.3rem;
+		font-weight: var(--fw-medium);
+		line-height: 1.6rem;
+		text-align: center;
+
+		@media (max-width: 768px) {
+			padding: 15px 30px;
+		}
+	}
+
+	&__body {
+		padding: 30px 20px;
+
+		@media (max-width: 768px) {
+			padding: 20px 10px;
+		}
+	}
+
+	&__button {
+		min-width: 40px;
+		cursor: pointer;
+		background-color: inherit;
+
+		svg {
+			width: 16px;
+			height: 16px;
+			fill: var(--color-text);
+		}
+	}
+}

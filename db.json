@@ -1,0 +1,149 @@
+{
+	"filters": {
+		"destinations": [
+				{"value": "Socorro Combo Expeditions", "id": "23"},
+				{"value": "Guadalupe great whites", "id": "12"},
+				{"value": "Socorro Expeditions", "id": "14"},
+				{"value": "Guadalupe Combo San Benitos", "id": "65"},
+				{"value": "Clipperton Socorro", "id": "45"},
+				{"value": "Channel Islands", "id": "32"}
+		],
+		"yearList": [
+				{"value": "2023"},
+				{"value": "2024"},
+				{"value": "2025"}
+		]
+	},
+	"products": [
+		{
+			"id": "23",
+			"title": "San Ignacio Luxury",
+			"label": " Pacific Gray Whales",
+			"info": "4 days at the San Ignacio Glamping",
+			"year": "2023",
+			"data": "Feb 11 - Feb 14, 2023",
+			"price": "3,000",
+			"spaces": "2",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		},
+		{
+			"id": "32",
+			"title": "San Ignacio Luxury",
+			"info": "4 days at the San Ignacio Glamping",
+			"year": "2023",
+			"data": "Feb 11 - Feb 14, 2023",
+			"price": "1,125",
+			"spaces": "12",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		},
+		{
+			"id": "14",
+			"title": "San Ignacio Luxury",
+			"label": " Pacific Gray Whales",
+			"info": "4 days at the San Ignacio Glamping",
+			"year": "2025",
+			"data": "Feb 11 - Feb 14, 2025",
+			"price": "2,495",
+			"spaces": "",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		},
+		{
+			"id": "65",
+			"title": "San Ignacio Luxury",
+			"label": " Pacific Gray Whales",
+			"info": "4 days at the San Ignacio Glamping",
+			"year": "2024",
+			"data": "Feb 11 - Feb 14, 2024",
+			"price": "3,295",
+			"spaces": "2",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		},
+		{
+			"id": "32",
+			"title": "San Ignacio Luxury",
+			"label": " Pacific Gray Whales",
+			"info": "4 days at the San Ignacio Glamping",
+			"year": "2023",
+			"data": "Feb 11 - Feb 14, 2023",
+			"price": "2,495",
+			"spaces": "",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		},
+		{
+			"id": "32",
+			"title": "San Ignacio Luxury",
+			"label": " Pacific Gray Whales",
+			"info": "4 days at the San Ignacio Glamping",
+			"year": "2025",
+			"data": "Feb 11 - Feb 14, 2025",
+			"price": "2,495",
+			"spaces": "5",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		},
+		{
+			"id": "12",
+			"title": "San Ignacio Luxury",
+			"label": " Pacific Gray Whales",
+			"info": "4 days at the San Ignacio Glamping",
+			"year": "2024",
+			"data": "Feb 11 - Feb 14, 2024",
+			"price": "1,100",
+			"spaces": "",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		},
+		{
+			"id": "65",
+			"title": "San Ignacio Luxury",
+			"label": " Pacific Gray Whales",
+			"info": "4 days at the San Ignacio Glamping",
+			"year": "2024",
+			"data": "Feb 11 - Feb 14, 2024",
+			"price": "2,495",
+			"spaces": "2",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		},
+		{
+			"id": "65",
+			"title": "San Ignacio Luxury",
+			"info": "4 days at the San Ignacio Glamping",
+			"year": "2023",
+			"data": "Feb 11 - Feb 14, 2023",
+			"price": "1,350",
+			"spaces": "6",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		},
+		{
+			"id": "42",
+			"title": "San Ignacio Luxury",
+			"label": " Pacific Gray Whales",
+			"info": "3 days at the Ignacio Glamping",
+			"year": "2023",
+			"data": "Feb 11 - Feb 14, 2023",
+			"price": "4,100",
+			"spaces": "2",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		},
+		{
+			"id": "32",
+			"title": "San Ignacio Luxury",
+			"label": " Pacific Gray Whales",
+			"info": "4 days at the San Ignacio Glamping",
+			"year": "2023",
+			"data": "Feb 11 - Feb 14, 2023",
+			"price": "2,495",
+			"spaces": "",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		},
+		{
+			"id": "12",
+			"title": "San Ignacio Luxury",
+			"label": " Pacific Gray Whales",
+			"info": "4 days at the San Ignacio Glamping",
+			"year": "2023",
+			"data": "Feb 11 - Feb 14, 2023",
+			"price": "2,495",
+			"spaces": "",
+			"img": "https://drhmkr8s3o2fc.cloudfront.net/go/images/thumb-sanignacio.jpg"
+		}
+	]
+}
